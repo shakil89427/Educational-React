@@ -1,0 +1,32 @@
+.course{
+    background-color: rgba(220, 220, 220, 0.534);
+}
+.all{
+    display: flex;
+    text-align: start;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    margin-right: 5px;
+}
+#name{
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.699);
+    margin: 0;
+    color: ghostwhite;
+    padding: 4% 0;
+    text-align: center;
+
+}
+#continue{
+    width: 40%;
+    margin-top: 10px;
+    padding: 5px 0px;
+    background-color: lightsalmon;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+h4{
+    margin: 0;
+}
